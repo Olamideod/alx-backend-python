@@ -1,5 +1,4 @@
-```
-# 0x02. Python - Async Comprehension
+## 0x02. Python - Async Comprehension
 
 ## Description
 This project focuses on understanding and implementing asynchronous programming in Python. Specifically, it covers asynchronous generators and comprehensions, which are powerful features introduced in Python 3.6 and 3.7. By the end of this project, you should be able to write and use asynchronous generators, comprehend async comprehensions, and apply type annotations for async generators.
